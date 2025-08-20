@@ -31,7 +31,7 @@ Neste desafio, foi desenvolvido uma aplicação que:
 
 ---
 
-## Estrutura principal do código
+## Estrutura principal do código - JavaScript
 
 ```javascript
 let amigos = []; 
