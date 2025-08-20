@@ -25,8 +25,8 @@ Neste desafio, foi desenvolvido uma aplicação que:
 
 ## Tecnologias utilizadas
 
-* **HTML**
-* **CSS**
+* **HTML5**
+* **CSS3**
 * **JavaScript**
 
 ---
