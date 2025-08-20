@@ -94,7 +94,7 @@ Abra o link acima no navegador.
 
 Digite os nomes no campo de texto e clique em Adicionar.
 
-Após inserir todos os nomes, clique em Sortear Amigo para descobrir o sorteado.
+Após inserir todos os nomes, clique em "Sortear Amigo" para descobrir o sorteado.
 
 ---
 
