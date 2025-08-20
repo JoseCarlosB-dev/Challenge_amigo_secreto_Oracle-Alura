@@ -98,16 +98,6 @@ Após inserir todos os nomes, clique em "Sortear Amigo" para descobrir o sortead
 
 ---
 
-## Aprendizados
-
-* Manipulação do DOM com **JavaScript**.
-* Uso de arrays (`push`, acesso por índice e `length`).
-* Laços de repetição (`for`).
-* Funções auxiliares para limpar campo e atualizar lista.
-* Geração de números aleatórios com `Math.random()` e `Math.floor()`.
-
----
-
 ## Autor
 
 Desenvolvido por José Carlos como parte do curso **Iniciante em Programação - Oracle ONE + Alura**.
